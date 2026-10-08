@@ -1,3 +1,11 @@
+<!-- 徽章 -->
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CI](https://github.com/chanxaviersy/01-lstm-stock-prediction/actions/workflows/test.yml/badge.svg)](https://github.com/chanxaviersy/01-lstm-stock-prediction/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/chanxaviersy/01-lstm-stock-prediction)](https://github.com/chanxaviersy/01-lstm-stock-prediction)
+
+---
+
 # LSTM 股票市场趋势预测
 
 > 基于深度学习时序预测的股票市场动态评估模型
